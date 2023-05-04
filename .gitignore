@@ -3,5 +3,6 @@
 # Temporary file directory
 .ipynb_checkpoints
 __pycache__
+data
 # Crash Log
 crash.log
